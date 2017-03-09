@@ -1,19 +1,2 @@
-<?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Mostly Rajas</title>
-        <link>http://www.truhland.net/blog</link>
-        <atom:link href="http://www.truhland.net/blog/feed.xml" rel="self" type="application/rss+xml" />
-        <description>techblog</description>
-        <pubDate>Wed, 1 Mar 2017 00:00:00 -0800</pubDate>
-        <lastBuildDate>Wed, 1 Mar 2017 19:12:19 -0800</lastBuildDate>
-
-            <item>
-                <title>Hello World</title>
-                <link>http://www.truhland.net/blog/blog/2017/hello-world</link>
-                <pubDate>Wed, 1 Mar 2017 00:00:00 -0800</pubDate>
-                <guid isPermaLink="false">http://www.truhland.net/blog/blog/2017/hello-world</guid>
-                <description>Work in progress for creating new blog</description>
-            </item>
-    </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0"><channel><title>Mostly Rajas</title><link>http://www.truhland.net/blog</link><description>a techblog</description><language>en-us</language><item><title>Hello World Blog</title><link>http://www.truhland.net/blog/post/HelloWorldBlog.html</link><description>&lt;p&gt;For years, I have been deeply indebted to the generosity of others who have taken the time to document their technical learnings in one form or another on the Internet. In that spirit I have created this blog, and I hope in time to generate content that creates some value. Eventually, there will be a comment box following each post. Until then, use email if you wish to comment. I am currently working mostly with the &lt;a href=&quot;https://www.scala-lang.org/&quot;&gt;Scala&lt;/a&gt; programming language. &lt;/p&gt;
+&lt;p&gt;This is the first time I have managed to set up a blog. The remainder of this post will cover the path taken.&lt;/p&gt;</description><pubDate>03-09-2017</pubDate></item></channel></rss>
